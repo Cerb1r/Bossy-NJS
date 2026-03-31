@@ -14,16 +14,16 @@ L'objectif de ce projet est de concevoir une Intelligence Artificielle capable d
 ## Structure du repository:
 
 📂 Morpion-IA-Hackathon/
-├── 📂 models/                 # Cerveaux de l'IA (Modèles entraînés)
-│   ├── 📄 best_model_draw.pkl  # Modèle prédisant les matchs nuls
-│   └── 📄 best_model_wins.pkl  # Modèle prédisant les victoires de X
-├── 📂 ressources/             # Matière première
-│   └── 📄 dataset.csv          # Base de données de positions générées
-├── 📄 app.py                  # API Flask (Service de prédiction)
-├── 📄 generator.py            # Script de génération du dataset (Minimax)
-├── 📄 main_game.py            # Interface graphique finale (CustomTkinter)
-├── 📄 notebook.ipynb          # Labo de recherche (EDA, Baseline, Entraînement)
-└── 📄 README.md               # Guide, réponses aux questions et lien vidéo
+├── 📂 models/                 
+│   ├── 📄 best_model_draw.pkl  
+│   └── 📄 best_model_wins.pkl  
+├── 📂 ressources/             
+│   └── 📄 dataset.csv          
+├── 📄 app.py                  
+├── 📄 generator.py            
+├── 📄 main_game.py           
+├── 📄 notebook.ipynb         
+└── 📄 README.md               
 
 
 ## Résultats ML (Baseline vs Finale)
