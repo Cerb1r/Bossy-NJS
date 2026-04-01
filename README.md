@@ -81,4 +81,4 @@ Le projet démontre qu'une approche hybride surpasse largement les modèles stat
 - Pièges : Le joueur hybride évite mieux les pièges car il combine la tactique immédiate (vérification de victoire/défaite par algorithme) et la stratégie long terme (évaluation par le modèle ML).
 
 ## lien du video :
-    https://www.facebook.com/share/v/1CddmfPrwG/
+    https://drive.google.com/file/d/1fSydgwFupo2vvBQHPoWC2frPTKQsh5H-/view?usp=drivesdk
